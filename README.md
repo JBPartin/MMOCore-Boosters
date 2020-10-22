@@ -1,4 +1,4 @@
-# MMOCore-Boosters
+# MMOCore Boosters
 
 An add-on plugin for MMOCore that lets you give boosters for single player use and set permanent boosters via permissions.
 
